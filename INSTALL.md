@@ -5,8 +5,8 @@
    `.zxp` from that zip with a ZXP installer:
    - [aescripts ZXP Installer](https://aescripts.com/learn/zxp-installer/) (free, macOS & Windows), or
    - [Anastasiy's Extension Manager](https://install.anastasiy.com/)
-3. Fully quit and reopen Premiere Pro.
-4. Open the panel: **Window → Extensions → AnyFind**, then paste your
+2. Fully quit and reopen Premiere Pro.
+3. Open the panel: **Window → Extensions → AnyFind**, then paste your
    license key (or start the 14-day trial).
 
 ## Updating
