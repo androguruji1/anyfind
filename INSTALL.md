@@ -1,5 +1,7 @@
 # Installing AnyFind
 
+Don't have it yet? [Buy AnyFind on Superprofile](https://superprofile.bio/vp/anyfind-plugin).
+
 1. Use the installer from your purchase email (`AnyFind-x.y.z-Install.zip`):
    double-click the Mac or Windows installer inside it. Or install the
    `.zxp` from that zip with a ZXP installer:

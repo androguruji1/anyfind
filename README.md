@@ -4,8 +4,8 @@ AnyFind turns any folder on your disk into a browsable, searchable pack of
 editing assets — transitions, sound FX, LUTs, overlays, MOGRTs — with hover
 previews and one-click import straight onto your timeline.
 
-**Get it:** AnyFind is a paid panel. Buy a license and you'll get the
-installer and your license key by email (14-day free trial included).
+**Get it:** AnyFind is a paid panel — **[buy it on Superprofile](https://superprofile.bio/vp/anyfind-plugin)**.
+You'll get the installer and your license key by email (14-day free trial included).
 
 ## Features
 
