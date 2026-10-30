@@ -4,8 +4,8 @@ AnyFind turns any folder on your disk into a browsable, searchable pack of
 editing assets — transitions, sound FX, LUTs, overlays, MOGRTs — with hover
 previews and one-click import straight onto your timeline.
 
-**Download:** grab the latest `.zxp` from the
-[Releases page](https://github.com/androguruji1/anyfind/releases/latest).
+**Get it:** AnyFind is a paid panel. Buy a license and you'll get the
+installer and your license key by email (14-day free trial included).
 
 ## Features
 
@@ -41,5 +41,5 @@ Premiere Pro version, OS, and what you clicked.
 
 ## License
 
-AnyFind is free to download and use. The source code is not open source;
-all rights reserved.
+AnyFind is commercial software: a license key is needed to use it (one key
+works on 2 computers). The source code is not open source; all rights reserved.

@@ -1,16 +1,17 @@
 # Installing AnyFind
 
-1. Download `AnyFind-x.y.z.zxp` from the
-   [latest release](https://github.com/androguruji1/anyfind/releases/latest).
-2. Install it with a ZXP installer:
+1. Use the installer from your purchase email (`AnyFind-x.y.z-Install.zip`):
+   double-click the Mac or Windows installer inside it. Or install the
+   `.zxp` from that zip with a ZXP installer:
    - [aescripts ZXP Installer](https://aescripts.com/learn/zxp-installer/) (free, macOS & Windows), or
    - [Anastasiy's Extension Manager](https://install.anastasiy.com/)
 3. Fully quit and reopen Premiere Pro.
-4. Open the panel: **Window → Extensions → AnyFind**.
+4. Open the panel: **Window → Extensions → AnyFind**, then paste your
+   license key (or start the 14-day trial).
 
 ## Updating
 
-Install the new `.zxp` the same way — it replaces the old version. Your packs
+Install the new version the same way — it replaces the old version. Your packs
 and settings are kept.
 
 ## Panel doesn't show up?
