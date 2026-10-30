@@ -4,8 +4,8 @@ AnyFind turns any folder on your disk into a browsable, searchable pack of
 editing assets — transitions, sound FX, LUTs, overlays, MOGRTs — with hover
 previews and one-click import straight onto your timeline.
 
-**Get it:** AnyFind is a paid panel — **[buy it on Superprofile](https://superprofile.bio/vp/anyfind-plugin)**.
-You'll get the installer and your license key by email (14-day free trial included).
+**[⬇ Download AnyFind](https://github.com/androguruji1/anyfind/releases/latest)** — try it free for 14 days,
+then **[buy a license on Superprofile](https://superprofile.bio/vp/anyfind-plugin)**.
 
 ## Features
 
@@ -24,6 +24,8 @@ You'll get the installer and your license key by email (14-day free trial includ
 - **Library tools** — search, favorites, Most Used view, colour filter and a
   duplicate finder
 - **Optional ffmpeg fallback** for codecs the panel can't preview natively
+- **Updates itself** — new versions install in the background
+- **Report a bug** from inside the panel
 
 ## Compatibility
 
